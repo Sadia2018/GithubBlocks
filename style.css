@@ -37,7 +37,7 @@ div.row.blue {
 .row {
   display: flex;
   justify-content: space-between;
-  background-color: #fff;
+  background-color:rgb(203, 216, 157);
   margin: 20px;
   padding: 20px;
 }
